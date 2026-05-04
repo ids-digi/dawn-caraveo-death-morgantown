@@ -1,34 +1,22 @@
 const data = {
-    "url": "your-url-here",
-    "slug": "Story slug",
-    "headline": "This is the headline",
-    "title": "Buildout Template",
-    "pub_date": "{insert your date in metadata.json}",
+    "url": "dawn-caraveo-death-morgantown",
+    "slug": "Dawn Caraveo",
+    "headline": "Her mom died 36 years ago. She’s still searching for answers",
+    "title": "Dawn Caraveo",
+    "pub_date": "May 4, 2026",
     "bylines": {
         "By": {
-            "name": "Cate Charron",
-            "email": "catchar@iu.edu",
-            "twitter": "catcharron",
-            "pfp": "https://pbs.twimg.com/profile_images/1499562155896619014/CUD2EvuV_400x400.jpg",
-            "bio": "Cate has worked at the IDS since 2019 as a reporter and designer."
-        },
-        "Photos by": {
-            "name": "Izzy Myszak",
-            "email": "izzymyszak@iu.edu",
-            "twitter": "izzymyszak"
+            "name": "Natalia Nelson",
+            "email": "nelsonnb@iu.edu",
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/62461a4c-7e6f-4ec8-8d2f-65011ee5c6c0.original.jpg",
+            "bio": "Natalia has worked at the IDS since 2024 and is an enterprise editor."
         },
         "Design and development by": {
-            "name": "Carson TerBush",
-            "email": "cterbush@iu.edu",
-            "twitter": "carsonology",
-            "pfp": "https://pbs.twimg.com/profile_images/1477852735278129152/vk-AiTE6_400x400.jpg",
-            "bio": "Carson has worked at the IDS since 2019 as a reporter and designer."
+            "name": "Matei Cloteaux",
+            "email": "mcloteau@iu.edu",
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/582468e2-d203-46f6-bbf2-3a83a4f981ec.original.jpg",
+            "bio": "Matei has worked at the IDS since 2023 and currently serves as the managing editor of digital."
         },
-        "Graphics by": {
-            "name": "Vivek Rao",
-            "email": "vivrao@iu.edu",
-            "twitter": "vivrao"
-        }
     }
 }
 
